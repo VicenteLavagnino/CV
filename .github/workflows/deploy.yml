@@ -16,12 +16,12 @@ jobs:
     - name: Install Quarto
       uses: quarto-dev/quarto-actions/setup@v2
       with:
-        version: stable
+        version: latest
 
     - name: Render the website and PDF
       run: |
         quarto render .
-        quarto render index.qmd --to pdf
+        quarto render curriculum/main/main_es.qmd --to pdf
         quarto render curriculum/main/main_en.qmd --to pdf
         quarto render curriculum/software-engineering/software-engineering_es.qmd --to pdf
         quarto render curriculum/software-engineering/software-engineering_en.qmd --to pdf
