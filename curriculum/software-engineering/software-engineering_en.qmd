@@ -1,0 +1,44 @@
+---
+title: "Software Engineering"
+author: "Vicente Lavagnino"
+date-modified: "2024-06-06"
+format:
+  html: default
+  pdf: 
+    documentclass: article
+    geometry: margin=1in
+---
+
+# Profile
+
+Software Engineering specialist with experience in...
+
+# Experience
+
+## Company X
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+
+## Company Y
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+
+# Education
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+
+# Skills
+
+- Skill 1
+- Skill 2
+- Skill 3
+
+# Projects
+
+## Project A
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+
+## Project B
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.

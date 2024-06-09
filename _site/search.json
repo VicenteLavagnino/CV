@@ -1,0 +1,222 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Curriculum",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "crumbs": [
+      "Español 🇪🇸",
+      "Curriculum"
+    ]
+  },
+  {
+    "objectID": "index.html#empresa-a",
+    "href": "index.html#empresa-a",
+    "title": "Curriculum",
+    "section": "Empresa A",
+    "text": "Empresa A\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "Español 🇪🇸",
+      "Curriculum"
+    ]
+  },
+  {
+    "objectID": "index.html#empresa-b",
+    "href": "index.html#empresa-b",
+    "title": "Curriculum",
+    "section": "Empresa B",
+    "text": "Empresa B\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "Español 🇪🇸",
+      "Curriculum"
+    ]
+  },
+  {
+    "objectID": "index.html#proyecto-x",
+    "href": "index.html#proyecto-x",
+    "title": "Curriculum",
+    "section": "Proyecto X",
+    "text": "Proyecto X\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "Español 🇪🇸",
+      "Curriculum"
+    ]
+  },
+  {
+    "objectID": "index.html#proyecto-y",
+    "href": "index.html#proyecto-y",
+    "title": "Curriculum",
+    "section": "Proyecto Y",
+    "text": "Proyecto Y\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "Español 🇪🇸",
+      "Curriculum"
+    ]
+  },
+  {
+    "objectID": "curriculum/software-engineering/software-engineering_en.html",
+    "href": "curriculum/software-engineering/software-engineering_en.html",
+    "title": "Software Engineering",
+    "section": "",
+    "text": "Software Engineering specialist with experience in…",
+    "crumbs": [
+      "English 🇬🇧",
+      "Software Engineering"
+    ]
+  },
+  {
+    "objectID": "curriculum/software-engineering/software-engineering_en.html#company-x",
+    "href": "curriculum/software-engineering/software-engineering_en.html#company-x",
+    "title": "Software Engineering",
+    "section": "Company X",
+    "text": "Company X\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "English 🇬🇧",
+      "Software Engineering"
+    ]
+  },
+  {
+    "objectID": "curriculum/software-engineering/software-engineering_en.html#company-y",
+    "href": "curriculum/software-engineering/software-engineering_en.html#company-y",
+    "title": "Software Engineering",
+    "section": "Company Y",
+    "text": "Company Y\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "English 🇬🇧",
+      "Software Engineering"
+    ]
+  },
+  {
+    "objectID": "curriculum/software-engineering/software-engineering_en.html#project-a",
+    "href": "curriculum/software-engineering/software-engineering_en.html#project-a",
+    "title": "Software Engineering",
+    "section": "Project A",
+    "text": "Project A\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "English 🇬🇧",
+      "Software Engineering"
+    ]
+  },
+  {
+    "objectID": "curriculum/software-engineering/software-engineering_en.html#project-b",
+    "href": "curriculum/software-engineering/software-engineering_en.html#project-b",
+    "title": "Software Engineering",
+    "section": "Project B",
+    "text": "Project B\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "English 🇬🇧",
+      "Software Engineering"
+    ]
+  },
+  {
+    "objectID": "curriculum/main/main_en.html",
+    "href": "curriculum/main/main_en.html",
+    "title": "Main CV",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "crumbs": [
+      "English 🇬🇧",
+      "Main CV"
+    ]
+  },
+  {
+    "objectID": "curriculum/main/main_en.html#company-a",
+    "href": "curriculum/main/main_en.html#company-a",
+    "title": "Main CV",
+    "section": "Company A",
+    "text": "Company A\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "English 🇬🇧",
+      "Main CV"
+    ]
+  },
+  {
+    "objectID": "curriculum/main/main_en.html#company-b",
+    "href": "curriculum/main/main_en.html#company-b",
+    "title": "Main CV",
+    "section": "Company B",
+    "text": "Company B\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "English 🇬🇧",
+      "Main CV"
+    ]
+  },
+  {
+    "objectID": "curriculum/main/main_en.html#project-x",
+    "href": "curriculum/main/main_en.html#project-x",
+    "title": "Main CV",
+    "section": "Project X",
+    "text": "Project X\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "English 🇬🇧",
+      "Main CV"
+    ]
+  },
+  {
+    "objectID": "curriculum/main/main_en.html#project-y",
+    "href": "curriculum/main/main_en.html#project-y",
+    "title": "Main CV",
+    "section": "Project Y",
+    "text": "Project Y\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "English 🇬🇧",
+      "Main CV"
+    ]
+  },
+  {
+    "objectID": "curriculum/software-engineering/software-engineering_es.html",
+    "href": "curriculum/software-engineering/software-engineering_es.html",
+    "title": "Ingeniero de Software",
+    "section": "",
+    "text": "Especialista en Ingeniería de Software con experiencia en…",
+    "crumbs": [
+      "Español 🇪🇸",
+      "Ingeniero de Software"
+    ]
+  },
+  {
+    "objectID": "curriculum/software-engineering/software-engineering_es.html#empresa-x",
+    "href": "curriculum/software-engineering/software-engineering_es.html#empresa-x",
+    "title": "Ingeniero de Software",
+    "section": "Empresa X",
+    "text": "Empresa X\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "Español 🇪🇸",
+      "Ingeniero de Software"
+    ]
+  },
+  {
+    "objectID": "curriculum/software-engineering/software-engineering_es.html#empresa-y",
+    "href": "curriculum/software-engineering/software-engineering_es.html#empresa-y",
+    "title": "Ingeniero de Software",
+    "section": "Empresa Y",
+    "text": "Empresa Y\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "Español 🇪🇸",
+      "Ingeniero de Software"
+    ]
+  },
+  {
+    "objectID": "curriculum/software-engineering/software-engineering_es.html#proyecto-a",
+    "href": "curriculum/software-engineering/software-engineering_es.html#proyecto-a",
+    "title": "Ingeniero de Software",
+    "section": "Proyecto A",
+    "text": "Proyecto A\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "Español 🇪🇸",
+      "Ingeniero de Software"
+    ]
+  },
+  {
+    "objectID": "curriculum/software-engineering/software-engineering_es.html#proyecto-b",
+    "href": "curriculum/software-engineering/software-engineering_es.html#proyecto-b",
+    "title": "Ingeniero de Software",
+    "section": "Proyecto B",
+    "text": "Proyecto B\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "Español 🇪🇸",
+      "Ingeniero de Software"
+    ]
+  }
+]

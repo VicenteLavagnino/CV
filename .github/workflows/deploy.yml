@@ -1,0 +1,33 @@
+name: Deploy Quarto Project to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v2
+
+    - name: Install Quarto
+      uses: quarto-dev/quarto-actions/setup@v2
+      with:
+        version: stable
+
+    - name: Render the website and PDF
+      run: |
+        quarto render .
+        quarto render index.qmd --to pdf
+        quarto render curriculum/main/main_en.qmd --to pdf
+        quarto render curriculum/software-engineering/software-engineering_es.qmd --to pdf
+        quarto render curriculum/software-engineering/software-engineering_en.qmd --to pdf
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site
