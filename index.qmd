@@ -1,6 +1,6 @@
 ---
 title: "Curriculum"
-author: "Vicente Lavagnino"
+subtitle: "Vicente Lavagnino"
 date-modified: "2024-06-06"
 format:
   html: default
@@ -9,36 +9,47 @@ format:
     geometry: margin=1in
 ---
 
-# Perfil
+## Información Personal
+```bash
+Nombre: Vicente Lavagnino
+Correo Electrónico: tu-email@example.com
+Teléfono: +56 9 1234 5678
+Dirección: Santiago, Chile
+```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+## Experiencia Profesional
+### Empresa XYZ
+**Desarrollador de Software**  
+*Enero 2021 - Presente*
+- Descripción de tus responsabilidades y logros en esta posición.
 
-# Experiencia
+### Empresa ABC
+**Interno de Desarrollo**  
+*Junio 2020 - Diciembre 2020*
+- Descripción de tus responsabilidades y logros en esta posición.
 
-## Empresa A
+## Educación
+### Pontificia Universidad Católica de Chile
+**Ingeniería de Software**  
+*Marzo 2019 - Presente*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+## Habilidades
+- Lenguajes de Programación: JavaScript, Python, C++
+- Frameworks: React, Node.js, Django
+- Herramientas: Git, Docker, Jenkins
 
-## Empresa B
+## Proyectos
+### Proyecto de Red Social
+Descripción breve del proyecto, tecnologías utilizadas y logros alcanzados.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+### Proyecto de Tratamiento de Aguas
+Descripción breve del proyecto, tecnologías utilizadas y logros alcanzados.
 
-# Educación
+## Idiomas
+- Español: Nativo
+- Inglés: Avanzado
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
-
-# Habilidades
-
-- Habilidad 1
-- Habilidad 2
-- Habilidad 3
-
-# Proyectos
-
-## Proyecto X
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
-
-## Proyecto Y
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+## Intereses
+- Desarrollo de Software
+- Ciberseguridad
+- Yoga y Mindfulness

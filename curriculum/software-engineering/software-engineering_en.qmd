@@ -1,6 +1,6 @@
 ---
 title: "Software Engineering"
-author: "Vicente Lavagnino"
+subtitle: "Vicente Lavagnino"
 date-modified: "2024-06-06"
 format:
   html: default
