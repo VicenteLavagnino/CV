@@ -114,51 +114,84 @@
     "href": "index.html",
     "title": "Curriculum",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "text": "Nombre: Vicente Lavagnino\nCorreo Electrónico: tu-email@example.com\nTeléfono: +56 9 1234 5678\nDirección: Santiago, Chile",
     "crumbs": [
       "Español 🇪🇸",
       "Curriculum"
     ]
   },
   {
-    "objectID": "index.html#empresa-a",
-    "href": "index.html#empresa-a",
+    "objectID": "index.html#información-personal",
+    "href": "index.html#información-personal",
     "title": "Curriculum",
-    "section": "Empresa A",
-    "text": "Empresa A\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "section": "",
+    "text": "Nombre: Vicente Lavagnino\nCorreo Electrónico: tu-email@example.com\nTeléfono: +56 9 1234 5678\nDirección: Santiago, Chile",
     "crumbs": [
       "Español 🇪🇸",
       "Curriculum"
     ]
   },
   {
-    "objectID": "index.html#empresa-b",
-    "href": "index.html#empresa-b",
+    "objectID": "index.html#experiencia-profesional",
+    "href": "index.html#experiencia-profesional",
     "title": "Curriculum",
-    "section": "Empresa B",
-    "text": "Empresa B\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "section": "Experiencia Profesional",
+    "text": "Experiencia Profesional\n\nEmpresa XYZ\nDesarrollador de Software\nEnero 2021 - Presente - Descripción de tus responsabilidades y logros en esta posición.\n\n\nEmpresa ABC\nInterno de Desarrollo\nJunio 2020 - Diciembre 2020 - Descripción de tus responsabilidades y logros en esta posición.",
     "crumbs": [
       "Español 🇪🇸",
       "Curriculum"
     ]
   },
   {
-    "objectID": "index.html#proyecto-x",
-    "href": "index.html#proyecto-x",
+    "objectID": "index.html#educación",
+    "href": "index.html#educación",
     "title": "Curriculum",
-    "section": "Proyecto X",
-    "text": "Proyecto X\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "section": "Educación",
+    "text": "Educación\n\nPontificia Universidad Católica de Chile\nIngeniería de Software\nMarzo 2019 - Presente",
     "crumbs": [
       "Español 🇪🇸",
       "Curriculum"
     ]
   },
   {
-    "objectID": "index.html#proyecto-y",
-    "href": "index.html#proyecto-y",
+    "objectID": "index.html#habilidades",
+    "href": "index.html#habilidades",
     "title": "Curriculum",
-    "section": "Proyecto Y",
-    "text": "Proyecto Y\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "section": "Habilidades",
+    "text": "Habilidades\n\nLenguajes de Programación: JavaScript, Python, C++\nFrameworks: React, Node.js, Django\nHerramientas: Git, Docker, Jenkins",
+    "crumbs": [
+      "Español 🇪🇸",
+      "Curriculum"
+    ]
+  },
+  {
+    "objectID": "index.html#proyectos",
+    "href": "index.html#proyectos",
+    "title": "Curriculum",
+    "section": "Proyectos",
+    "text": "Proyectos\n\nProyecto de Red Social\nDescripción breve del proyecto, tecnologías utilizadas y logros alcanzados.\n\n\nProyecto de Tratamiento de Aguas\nDescripción breve del proyecto, tecnologías utilizadas y logros alcanzados.",
+    "crumbs": [
+      "Español 🇪🇸",
+      "Curriculum"
+    ]
+  },
+  {
+    "objectID": "index.html#idiomas",
+    "href": "index.html#idiomas",
+    "title": "Curriculum",
+    "section": "Idiomas",
+    "text": "Idiomas\n\nEspañol: Nativo\nInglés: Avanzado",
+    "crumbs": [
+      "Español 🇪🇸",
+      "Curriculum"
+    ]
+  },
+  {
+    "objectID": "index.html#intereses",
+    "href": "index.html#intereses",
+    "title": "Curriculum",
+    "section": "Intereses",
+    "text": "Intereses\n\nDesarrollo de Software\nCiberseguridad\nYoga y Mindfulness",
     "crumbs": [
       "Español 🇪🇸",
       "Curriculum"
