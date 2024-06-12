@@ -8,48 +8,42 @@ format:
     documentclass: article
     geometry: margin=1in
 ---
+# Vicente Lavagnino
 
-## Información Personal
-```bash
-Nombre: Vicente Lavagnino
-Correo Electrónico: tu-email@example.com
-Teléfono: +56 9 1234 5678
-Dirección: Santiago, Chile
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vicentelavagnino/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github&style=for-the-badge)](https://github.com/vicentelavagnino)
+[![Email](https://img.shields.io/badge/Email-vlavagnino%40example.com-red?logo=gmail&style=for-the-badge)](mailto:vlavagnino@example.com)
+[![Website](https://img.shields.io/badge/Website-vicentelavagnino.com-brightgreen?logo=googlechrome&style=for-the-badge)](https://vicentelavagnino.com)
 
-## Experiencia Profesional
-### Empresa XYZ
-**Desarrollador de Software**  
-*Enero 2021 - Presente*
-- Descripción de tus responsabilidades y logros en esta posición.
+---
 
-### Empresa ABC
-**Interno de Desarrollo**  
-*Junio 2020 - Diciembre 2020*
-- Descripción de tus responsabilidades y logros en esta posición.
+## About Me
 
-## Educación
+I am a fourth-year Software Engineering student at Pontificia Universidad Católica de Chile. I am passionate about creating authentic and real social networking environments, focusing on genuine interactions and combating the negative effects of social pressure and the quest for perfection in traditional social media.
+
+## Education
+
 ### Pontificia Universidad Católica de Chile
-**Ingeniería de Software**  
-*Marzo 2019 - Presente*
+- **Degree:** Software Engineering
+- **Year:** Fourth Year
 
-## Habilidades
-- Lenguajes de Programación: JavaScript, Python, C++
-- Frameworks: React, Node.js, Django
-- Herramientas: Git, Docker, Jenkins
+## Experience
 
-## Proyectos
-### Proyecto de Red Social
-Descripción breve del proyecto, tecnologías utilizadas y logros alcanzados.
+### Social Network Project
+- **Role:** Lead Developer
+- **Description:** Developing a unique social network where users' profiles are shaped by comments from their friends, fostering more authentic interactions.
+- **Technologies Used:** React, PostgreSQL, Node.js, Koa.js, Sequelize
 
-### Proyecto de Tratamiento de Aguas
-Descripción breve del proyecto, tecnologías utilizadas y logros alcanzados.
+### CASA LAR
+- **Role:** Founder
+- **Description:** Home decor business focusing on creating cozy and welcoming spaces.
 
-## Idiomas
-- Español: Nativo
-- Inglés: Avanzado
+### Entrena Mente
+- **Role:** Founder
+- **Description:** Mindfulness and yoga workshops aimed at improving mental health and well-being.
 
-## Intereses
-- Desarrollo de Software
-- Ciberseguridad
-- Yoga y Mindfulness
+## Skills
+
+- **Programming Languages:** JavaScript, Python, SQL
+- **Frameworks and Libraries:** React, Node.js, Koa.js, Sequelize
+- **Tools:** Git, GitHub
