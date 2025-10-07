@@ -7,10 +7,84 @@ format:
   pdf: 
     documentclass: article
     geometry: margin=1in
+    fontsize: 9pt
 ---
+
 # Vicente Lavagnino
+**Visiting @ EPFL | MPI-SP**  
+Lausanne, Vaud, Switzerland
 
 ---
+
+## Contact
+
+- **Email:** [vicente.lavagnino@uc.cl](mailto:vicente.lavagnino@uc.cl)
+- **LinkedIn:** [www.linkedin.com/in/vicentelavagnino](https://www.linkedin.com/in/vicentelavagnino)
+
+---
+
+## Languages
+
+- **Español** (Native or Bilingual)
+- **Inglés** (Full Professional)
+
+---
+
+## Certifications
+
+- **Ski technician**
+
+---
+
+## Honors & Awards
+
+- **People's Choice Winner** - Platanus Ventures Hackathon 2024
+- **The Bridge @ UC** - Scholarship
+- **Puntaje Nacional Matemáticas**
+- **#3 BCG Challenge Chile** 2025
+
+---
+
+## Work Experience
+
+**July 2025 - Present (4 months)** | **Stealth Startup** | *Intern*  
+Harvard spin-off, part of the founding team.
+
+**April 2025 - July 2025 (4 months)** | **Entel** | *Software Engineer Intern*  
+Chile - Micro internship, joined through "Sin Límites program", developed an internal AI tool to streamline report writing and extract key insights from private consultancy sources.
+
+**March 2025 - July 2025 (5 months)** | **Pontificia Universidad Católica de Chile** | *Teaching Assistant*  
+Chile - Software Systems Architecture - IIC2173 (2025-1)
+
+**December 2023 - March 2024 (4 months)** | **Sierra-at-Tahoe Resort** | *Ski Instructor*  
+California, United States - Ski instructor - J1 Visa. Taught over 100 first-time skiers.
+
+**December 2022 - December 2023 (1 year 1 month)** | **CAi - Centro de Alumnos de Ingeniería UC** | *Secretary General - Student Council*  
+Chile - Served as Secretary General of the Engineering Student Council at Pontificia Universidad Católica de Chile in 2023, leading student representation initiatives and managing activities for over 5,000 students in the school.
+
+**January 2022 - December 2022 (1 year)** | **Preuniversitario Parábola** | *Teacher*  
+Chile - Worked as a mathematics instructor at the Parábola pre-university program, the equivalent of SAT preparation in the U.S, delivering weekly classes and contributing to the development of study materials.
+
+---
+
+## Research
+
+**May 2025 - September 2025 (5 months)** | **Centro Nacional de Inteligencia Artificial** | *Research Assistant*  
+Supervised by PhD Marcelo Mendoza, collaborated on MSc Martín Bórquez's thesis research on bias detection in job ads using NLP techniques.
+
+---
+
+## Education
+
+**2025 - 2026** | **EPFL** | *Visiting Student – Master's Program, Computer Science*
+
+**2025 - 2025** | **Stanford Continuing Studies** | *CS | AI & Business*
+
+**2021 - 2026** | **Pontificia Universidad Católica de Chile** | *Bachelor of Engineering - BE*
+
+**December 2018 - March 2019** | **EF International Language Centers** | *Highschool Exchange, Learning English*
+
+# Vicente Lavagnino
 
 ## About Me
 

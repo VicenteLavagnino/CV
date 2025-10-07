@@ -9,6 +9,9 @@ website:
     style: docked
     search: true
     contents:
+      - text: "LinkedIn"
+        href: "https://www.linkedin.com/in/vicentelavagnino/"
+      
       - section: "English"
         contents:
           - index.qmd
@@ -18,10 +21,6 @@ website:
         contents:
           - curriculum/one-page/one-page_es.qmd
           - curriculum/detailed/detailed_es.qmd
-      
-      - icon: linkedin
-        href: "https://www.linkedin.com/in/vicentelavagnino/"
-        tooltip: "Visit my LinkedIn profile"
 
 resources:
   - CNAME
@@ -41,10 +40,12 @@ format:
       light: cosmo
       dark: darkly
     
-    pdf:
-      lang: es
-      toc: true
-      toc-depth: 2
-      number-sections: true
-      highlight: true
-      mainfont: Source Sans Pro
+  pdf:
+    documentclass: developercv
+    geometry: margin=0.1cm
+    fontsize: 9pt
+    include-in-header:
+      text: |
+        \usepackage{multicol}
+        \setlength{\columnsep}{0mm}
+        \usepackage{lipsum}

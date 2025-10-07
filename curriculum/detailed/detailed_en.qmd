@@ -9,36 +9,92 @@ format:
     geometry: margin=1in
 ---
 
-# Profile
+# Vicente Lavagnino
+**Visiting @ EPFL | MPI-SP**  
+Lausanne, Vaud, Switzerland
 
-Software Engineering specialist with experience in...
+---
 
-# Experience
+## Contact
 
-## Company X
+- **Email:** [vicente.lavagnino@uc.cl](mailto:vicente.lavagnino@uc.cl)
+- **LinkedIn:** [www.linkedin.com/in/vicentelavagnino](https://www.linkedin.com/in/vicentelavagnino)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+---
 
-## Company Y
+## Languages
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+- **Español** (Native or Bilingual)
+- **Inglés** (Full Professional)
 
-# Education
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+## Certifications
 
-# Skills
+- **Ski technician**
 
-- Skill 1
-- Skill 2
-- Skill 3
+---
 
-# Projects
+## Honors & Awards
 
-## Project A
+- **People's Choice Winner** - Platanus Ventures Hackathon 2024
+- **The Bridge @ UC** - Scholarship
+- **Puntaje Nacional Matemáticas**
+- **#3 BCG Challenge Chile** 2025
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+---
 
-## Project B
+## Work Experience
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+**July 2025 - Present (4 months)** | **Stealth Startup** | *Intern*  
+Harvard spin-off, part of the founding team.
+
+**April 2025 - July 2025 (4 months)** | **Entel** | *Software Engineer Intern*  
+Chile - Micro internship, joined through "Sin Límites program", developed an internal AI tool to streamline report writing and extract key insights from private consultancy sources.
+
+**March 2025 - July 2025 (5 months)** | **Pontificia Universidad Católica de Chile** | *Teaching Assistant*  
+Chile - Software Systems Architecture - IIC2173 (2025-1)
+
+**December 2023 - March 2024 (4 months)** | **Sierra-at-Tahoe Resort** | *Ski Instructor*  
+California, United States - Ski instructor - J1 Visa. Taught over 100 first-time skiers.
+
+**December 2022 - December 2023 (1 year 1 month)** | **CAi - Centro de Alumnos de Ingeniería UC** | *Secretary General - Student Council*  
+Chile - Served as Secretary General of the Engineering Student Council at Pontificia Universidad Católica de Chile in 2023, leading student representation initiatives and managing activities for over 5,000 students in the school.
+
+**January 2022 - December 2022 (1 year)** | **Preuniversitario Parábola** | *Teacher*  
+Chile - Worked as a mathematics instructor at the Parábola pre-university program, the equivalent of SAT preparation in the U.S, delivering weekly classes and contributing to the development of study materials.
+
+---
+
+## Research
+
+**May 2025 - September 2025 (5 months)** | **Centro Nacional de Inteligencia Artificial** | *Research Assistant*  
+Supervised by PhD Marcelo Mendoza, collaborated on MSc Martín Bórquez's thesis research on bias detection in job ads using NLP techniques.
+
+---
+
+## Volunteering
+
+**2022** | **Trabajos de Invierno** | *Volunteer*  
+Volunteered for Trabajos de Invierno in its 2022 edition, an Engineering initiative dedicated to building tools to help overcome poverty for families in the Araucanía region. In particular, I contributed by constructing a pigpen and a water tower in Teodoro Schmidt.
+
+**2022** | **Head of Finance Lepp UC** | *Volunteer*  
+In 2022, I was responsible for Finance at the young initiative "Laboratorio Estudiantil de Políticas Públicas UC", managing expenses and representing the initiative during the university's fund allocation and reporting processes.
+
+**2021-2022** | **Ingeniería Para Chile** | *Volunteer*  
+I was part of the Ingeniería Para Chile team, working particularly in the Maker Commission, which focuses on finding engineering solutions to real-world problems faced by students and society. Specifically, we worked on enhancing the efficiency of heating networks in socioeconomically vulnerable homes and initiated a project to restore unused microwaves within the Student Council.
+
+**2021-2022** | **CAi Committees** | *Volunteer*  
+During my early years at the university, I participated in the committees of the Engineering Students' Council, primarily in the Public Role Commission, developing projects in collaboration with the School and other initiatives.
+
+---
+
+## Education
+
+**2025 - 2026** | **EPFL** | *Visiting Student – Master's Program, Computer Science*
+
+**2025 - 2025** | **Stanford Continuing Studies** | *CS | AI & Business*
+
+**2021 - 2026** | **Pontificia Universidad Católica de Chile** | *Bachelor of Engineering - BE*
+
+**December 2018 - March 2019** | **EF International Language Centers** | *Highschool Exchange, Learning English*

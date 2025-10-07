@@ -9,36 +9,76 @@ format:
     geometry: margin=1in
 ---
 
-# Profile
+# Vicente Lavagnino
+**Visitante @ EPFL | MPI-SP**  
+Lausanne, Vaud, Suiza
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+---
 
-# Experience
+## Contacto
 
-## Company A
+- **Email:** [vicente.lavagnino@uc.cl](mailto:vicente.lavagnino@uc.cl)
+- **LinkedIn:** [www.linkedin.com/in/vicentelavagnino](https://www.linkedin.com/in/vicentelavagnino)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+---
 
-## Company B
+## Idiomas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+- **Español** (Nativo o Bilingüe)
+- **Inglés** (Profesional Completo)
 
-# Education
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+## Certificaciones
 
-# Skills
+- **Técnico en Esquí**
 
-- Skill 1
-- Skill 2
-- Skill 3
+---
 
-# Projects
+## Honores y Premios
 
-## Project X
+- **Ganador Elección del Público** - Platanus Ventures Hackathon 2024
+- **The Bridge @ UC** - Beca
+- **Puntaje Nacional Matemáticas**
+- **#3 BCG Challenge Chile** 2025
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+---
 
-## Project Y
+## Experiencia Laboral
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
+**Julio 2025 - Presente (4 meses)** | **Startup Stealth** | *Interno*  
+Spin-off de Harvard, parte del equipo fundador.
+
+**Abril 2025 - Julio 2025 (4 meses)** | **Entel** | *Ingeniero de Software Interno*  
+Chile - Micro pasantía, ingresé a través del programa "Sin Límites", desarrollé una herramienta de IA interna para agilizar la escritura de informes y extraer insights clave de fuentes de consultoría privadas.
+
+**Marzo 2025 - Julio 2025 (5 meses)** | **Pontificia Universidad Católica de Chile** | *Ayudante de Cátedra*  
+Chile - Arquitectura de Sistemas de Software - IIC2173 (2025-1)
+
+**Diciembre 2023 - Marzo 2024 (4 meses)** | **Sierra-at-Tahoe Resort** | *Instructor de Esquí*  
+California, Estados Unidos - Instructor de esquí - Visa J1. Enseñé a más de 100 esquiadores principiantes.
+
+**Diciembre 2022 - Diciembre 2023 (1 año 1 mes)** | **CAi - Centro de Alumnos de Ingeniería UC** | *Secretario General - Consejo Estudiantil*  
+Chile - Serví como Secretario General del Consejo Estudiantil de Ingeniería en la Pontificia Universidad Católica de Chile en 2023, liderando iniciativas de representación estudiantil y gestionando actividades para más de 5,000 estudiantes de la escuela.
+
+**Enero 2022 - Diciembre 2022 (1 año)** | **Preuniversitario Parábola** | *Profesor*  
+Chile - Trabajé como instructor de matemáticas en el programa preuniversitario Parábola, equivalente a la preparación SAT en Estados Unidos, impartiendo clases semanales y contribuyendo al desarrollo de materiales de estudio.
+
+---
+
+## Investigación
+
+**Mayo 2025 - Septiembre 2025 (5 meses)** | **Centro Nacional de Inteligencia Artificial** | *Asistente de Investigación*  
+Supervisado por PhD Marcelo Mendoza, colaboré en la investigación de tesis de MSc Martín Bórquez sobre detección de sesgos en anuncios de trabajo usando técnicas de PLN.
+
+---
+
+## Educación
+
+**2025 - 2026** | **EPFL** | *Estudiante Visitante – Programa de Maestría, Ciencias de la Computación*
+
+**2025 - 2025** | **Stanford Continuing Studies** | *CS | IA y Negocios*
+
+**2021 - 2026** | **Pontificia Universidad Católica de Chile** | *Licenciatura en Ingeniería - BE*
+
+**Diciembre 2018 - Marzo 2019** | **EF International Language Centers** | *Intercambio de Secundaria, Aprendiendo Inglés*
