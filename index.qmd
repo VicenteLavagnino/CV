@@ -1,5 +1,5 @@
 ---
-title: "Curriculum"
+title: "One Page CV"
 subtitle: "Vicente Lavagnino"
 date-modified: "2024-06-06"
 format:
@@ -9,11 +9,6 @@ format:
     geometry: margin=1in
 ---
 # Vicente Lavagnino
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vicentelavagnino/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github&style=for-the-badge)](https://github.com/vicentelavagnino)
-[![Email](https://img.shields.io/badge/Email-vlavagnino%40example.com-red?logo=gmail&style=for-the-badge)](mailto:vlavagnino@example.com)
-[![Website](https://img.shields.io/badge/Website-vicentelavagnino.com-brightgreen?logo=googlechrome&style=for-the-badge)](https://vicentelavagnino.com)
 
 ---
 

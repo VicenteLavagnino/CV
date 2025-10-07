@@ -1,5 +1,5 @@
 ---
-title: "Ingeniero de Software"
+title: "CV Detallado"
 subtitle: "Vicente Lavagnino"
 date-modified: "2024-06-06"
 format:

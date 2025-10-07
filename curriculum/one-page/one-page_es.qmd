@@ -1,5 +1,5 @@
 ---
-title: "Software Engineering"
+title: "CV de Una Página"
 subtitle: "Vicente Lavagnino"
 date-modified: "2024-06-06"
 format:
@@ -11,15 +11,15 @@ format:
 
 # Profile
 
-Software Engineering specialist with experience in...
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
 # Experience
 
-## Company X
+## Company A
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
 
-## Company Y
+## Company B
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
 
@@ -35,10 +35,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo 
 
 # Projects
 
-## Project A
+## Project X
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.
 
-## Project B
+## Project Y
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.

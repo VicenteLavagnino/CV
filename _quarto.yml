@@ -9,19 +9,19 @@ website:
     style: docked
     search: true
     contents:
-      - section: "Español 🇪🇸"
+      - section: "English"
         contents:
           - index.qmd
-          - curriculum/software-engineering/software-engineering_es.qmd
+          - curriculum/detailed/detailed_en.qmd
       
-      - section: "English 🇬🇧"
+      - section: "Español"
         contents:
-          - curriculum/main/main_en.qmd
-          - curriculum/software-engineering/software-engineering_en.qmd
-   
-      - icon: linkedin
-        href: "https://www.linkedin.com/in/tu-perfil"
-        tooltip: "LinkedIn"
+          - curriculum/one-page/one-page_es.qmd
+          - curriculum/detailed/detailed_es.qmd
+      
+      - section: "LinkedIn"
+        href: "https://www.linkedin.com/in/vicentelavagnino/"
+        tooltip: "Visit my LinkedIn profile"
 
 resources:
   - CNAME
