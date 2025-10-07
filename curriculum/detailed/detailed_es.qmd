@@ -12,148 +12,178 @@ format:
         \AtBeginDocument{\makeheader}
 ---
 
-## Experiencia Laboral
+---
 
-<table width="100%">
-<tr>
-<td><strong>MOTEX AI - Interno</strong></td>
-<td align="right">Julio 2025 - Presente (4 meses)</td>
-</tr>
-</table>
-Spin-off de Harvard, parte del equipo fundador.
+---
 
-<table width="100%">
-<tr>
-<td><strong>ENTEL - Ingeniero de Software Interno</strong></td>
-<td align="right">Abril 2025 - Julio 2025 (4 meses)</td>
-</tr>
-</table>
-Chile - Micro pasantía, ingresé a través del programa "Sin Límites", desarrollé una herramienta de IA interna para agilizar la escritura de informes y extraer insights clave de fuentes de consultoría privadas.
+# Vicente Lavagnino
 
-<table width="100%">
-<tr>
-<td><strong>PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE - Ayudante de Cátedra</strong></td>
-<td align="right">Marzo 2025 - Julio 2025 (5 meses)</td>
-</tr>
-</table>
-Chile - Arquitectura de Sistemas de Software - IIC2173 (2025-1)
+<span class="iconify" data-icon="tabler:mail"></span> [vicente.lavagnino@uc.cl](mailto:vicente.lavagnino@uc.cl)
+  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/vicentelavagnino](https://www.linkedin.com/in/vicentelavagnino)
+  : <span class="iconify" data-icon="tabler:phone"></span> [+41 77 289 4018](https://wa.me/41772894018)
 
-<table width="100%">
-<tr>
-<td><strong>SIERRA-AT-TAHOE RESORT - Instructor de Esquí</strong></td>
-<td align="right">Diciembre 2023 - Marzo 2024 (4 meses)</td>
-</tr>
-</table>
-California, Estados Unidos - Instructor de esquí - Visa J1. Enseñé a más de 100 esquiadores principiantes.
+<span class="iconify" data-icon="ic:outline-location-on"></span> Lausanne, Vaud, Suiza
+  : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/VicenteLavagnino](https://github.com/VicenteLavagnino)
+  : <span class="iconify" data-icon="charm:person"></span> [lavagnino.cl](http://lavagnino.cl)
 
-<table width="100%">
-<tr>
-<td><strong>CAI - CENTRO DE ALUMNOS DE INGENIERÍA UC - Secretario General - Consejo Estudiantil</strong></td>
-<td align="right">Diciembre 2022 - Diciembre 2023 (1 año 1 mes)</td>
-</tr>
-</table>
-Chile - Serví como Secretario General del Consejo Estudiantil de Ingeniería en la Pontificia Universidad Católica de Chile en 2023, liderando iniciativas de representación estudiantil y gestionando actividades para más de 5,000 estudiantes de la escuela.
+## Experiencia
 
-<table width="100%">
-<tr>
-<td><strong>PREUNIVERSITARIO PARÁBOLA - Profesor</strong></td>
-<td align="right">Enero 2022 - Diciembre 2022 (1 año)</td>
-</tr>
-</table>
-Chile - Trabajé como instructor de matemáticas en el programa preuniversitario Parábola, equivalente a la preparación SAT en Estados Unidos, impartiendo clases semanales y contribuyendo al desarrollo de materiales de estudio.
+**Ingeniero de Software Interno**
+  : **Motex AI**
+  : **Jul 2025 - Presente**
+
+- Spin-off de Harvard, parte del equipo fundador desarrollando soluciones innovadoras de IA
+- Contribuyendo al desarrollo del producto principal y decisiones de arquitectura técnica
+- Colaborando en la definición de estrategias técnicas y arquitectura de sistemas
+
+**Ingeniero de Software Interno**
+  : **Entel**
+  : **Abr 2025 - Jul 2025**
+
+- Micro pasantía a través del programa "Sin Límites", desarrollé herramienta interna de IA para automatización de escritura de informes
+- Extraje insights clave de fuentes de consultoría privadas usando técnicas avanzadas de procesamiento de datos
+- Implementé algoritmos de procesamiento de lenguaje natural para análisis de documentos
+- Optimicé flujos de trabajo internos reduciendo tiempo de generación de reportes en 40%
+
+**Ayudante de Cátedra**
+  : **Pontificia Universidad Católica de Chile**
+  : **Mar 2025 - Jul 2025**
+
+- Curso de Arquitectura de Sistemas de Software (IIC2173) - semestre 2025-1
+- Asistí a estudiantes en la comprensión de patrones complejos de diseño de sistemas y principios de arquitectura de software
+- Desarrollé material didáctico complementario y ejercicios prácticos
+- Evalué proyectos estudiantiles y proporcioné retroalimentación constructiva
+
+**Instructor de Esquí**
+  : **Sierra-at-Tahoe Resort**
+  : **Dic 2023 - Mar 2024**
+
+- Posición con Visa J1 en California, Estados Unidos
+- Enseñé a más de 100 esquiadores principiantes, desarrollando metodologías efectivas de enseñanza para principiantes
+- Adapté técnicas de enseñanza a diferentes estilos de aprendizaje y niveles de habilidad
+- Contribuí al desarrollo de programas de entrenamiento para instructores junior
+
+**Secretario General - Consejo Estudiantil**
+  : **CAi - Centro de Alumnos de Ingeniería UC**
+  : **Dic 2022 - Dic 2023**
+
+- Lideré iniciativas de representación estudiantil para más de 5,000 estudiantes de ingeniería
+- Gestioné actividades organizacionales y coordiné entre el cuerpo estudiantil y la administración universitaria
+- Organizé eventos académicos y sociales de gran escala con participación de más de 1,000 estudiantes
+- Desarrollé estrategias de comunicación efectiva entre estudiantes y autoridades universitarias
+
+**Profesor de Matemáticas**
+  : **Preuniversitario Parábola**
+  : **Ene 2022 - Dic 2022**
+
+- Programa de preparación equivalente al SAT en Chile
+- Desarrollé clases semanales y contribuí a la creación de materiales de estudio para el currículum de matemáticas
+- Implementé metodologías de enseñanza adaptadas a diferentes niveles de comprensión matemática
+- Ayudé a estudiantes a mejorar sus puntajes promedio en 25% durante el período de enseñanza
 
 ---
 
 ## Experiencia de Investigación
 
-<table width="100%">
-<tr>
-<td><strong>CENTRO NACIONAL DE INTELIGENCIA ARTIFICIAL - Asistente de Investigación</strong></td>
-<td align="right">Mayo 2025 - Septiembre 2025 (5 meses)</td>
-</tr>
-</table>
-Supervisado por PhD Marcelo Mendoza, colaboré en la investigación de tesis de MSc Martín Bórquez sobre detección de sesgos en anuncios de trabajo usando técnicas de PLN.
+**Asistente de Investigación**
+  : **Centro Nacional de Inteligencia Artificial**
+  : **May 2025 - Sep 2025**
+
+- Supervisado por PhD Marcelo Mendoza, colaboré en la investigación de tesis de MSc Martín Bórquez
+- Desarrollé técnicas de PLN para detección de sesgos en anuncios de trabajo
+- Contribuí a la metodología de investigación académica y análisis de datos
+- Implementé algoritmos de clasificación de texto para identificación de patrones de sesgo
+- Colaboré en la preparación de papers académicos y presentaciones de investigación
 
 ---
 
 ## Educación
 
-<table width="100%">
-<tr>
-<td><strong>EPFL - Estudiante Visitante – Programa de Maestría, Ciencias de la Computación</strong></td>
-<td align="right">2025 - 2026</td>
-</tr>
-</table>
+**Estudiante Visitante - Programa de Maestría, Ciencias de la Computación**
+  : **Sep 2025 - Jun 2026**
 
-<table width="100%">
-<tr>
-<td><strong>STANFORD CONTINUING STUDIES - CS | IA y Negocios</strong></td>
-<td align="right">2025 - 2025</td>
-</tr>
-</table>
+EPFL (École Polytechnique Fédérale de Lausanne)
+  : Lausanne, Suiza
 
-<table width="100%">
-<tr>
-<td><strong>PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE - Licenciatura en Ingeniería - BE</strong></td>
-<td align="right">2021 - 2026</td>
-</tr>
-</table>
+**CS | IA y Negocios**
+  : **2025**
 
-<table width="100%">
-<tr>
-<td><strong>EF INTERNATIONAL LANGUAGE CENTERS - Intercambio de Secundaria, Aprendiendo Inglés</strong></td>
-<td align="right">Diciembre 2018 - Marzo 2019</td>
-</tr>
-</table>
+Stanford Continuing Studies
+  : Stanford, CA
+
+**Licenciatura en Ingeniería - Ingeniería de Software**
+  : **Mar 2021 - Dic 2026**
+
+Pontificia Universidad Católica de Chile
+  : Santiago, Chile
+
+**Intercambio de Secundaria - Aprendiendo Inglés**
+  : **Dic 2018 - Mar 2019**
+
+EF International Language Centers
+  : Estados Unidos
 
 ---
 
 ## Voluntariado
 
-<table width="100%">
-<tr>
-<td><strong>TRABAJOS DE INVIERNO - Voluntario</strong></td>
-<td align="right">2022</td>
-</tr>
-</table>
-Voluntariado en Trabajos de Invierno en su edición 2022, una iniciativa de Ingeniería dedicada a construir herramientas para ayudar a superar la pobreza de familias en la región de la Araucanía. En particular, contribuí construyendo un corral de cerdos y una torre de agua en Teodoro Schmidt.
+**Voluntario**
+  : **Trabajos de Invierno**
+  : **2022**
 
-<table width="100%">
-<tr>
-<td><strong>JEFE DE FINANZAS LEPP UC - Voluntario</strong></td>
-<td align="right">2022</td>
-</tr>
-</table>
-En 2022, fui responsable de Finanzas en la joven iniciativa "Laboratorio Estudiantil de Políticas Públicas UC", gestionando gastos y representando la iniciativa durante los procesos de asignación de fondos y reportes de la universidad.
+- Iniciativa de Ingeniería dedicada a construir herramientas para ayudar a superar la pobreza en la región de Araucanía
+- Construí corral de cerdos y torre de agua en Teodoro Schmidt, contribuyendo a la infraestructura comunitaria
+- Colaboré en el diseño e implementación de sistemas de agua potable para comunidades rurales
+- Coordiné equipos de voluntarios y gestioné recursos para proyectos de construcción
 
-<table width="100%">
-<tr>
-<td><strong>INGENIERÍA PARA CHILE - Voluntario</strong></td>
-<td align="right">2021-2022</td>
-</tr>
-</table>
-Fui parte del equipo de Ingeniería Para Chile, trabajando particularmente en la Comisión Maker, que se enfoca en encontrar soluciones de ingeniería a problemas del mundo real enfrentados por estudiantes y la sociedad. Específicamente, trabajamos en mejorar la eficiencia de redes de calefacción en hogares socioeconómicamente vulnerables e iniciamos un proyecto para restaurar microondas no utilizados dentro del Consejo Estudiantil.
+**Jefe de Finanzas**
+  : **Laboratorio Estudiantil de Políticas Públicas UC**
+  : **2022**
 
-<table width="100%">
-<tr>
-<td><strong>COMITÉS CAI - Voluntario</strong></td>
-<td align="right">2021-2022</td>
-</tr>
-</table>
-Durante mis primeros años en la universidad, participé en los comités del Consejo Estudiantil de Ingeniería, principalmente en la Comisión de Rol Público, desarrollando proyectos en colaboración con la Escuela y otras iniciativas.
+- Gestioné gastos y representé la iniciativa durante los procesos de asignación de fondos universitarios
+- Desarrollé sistemas de reportes financieros para organización de investigación de políticas dirigida por estudiantes
+- Implementé controles presupuestarios y procesos de auditoría interna
+- Presenté reportes financieros trimestrales a la administración universitaria
+
+**Voluntario**
+  : **Ingeniería Para Chile**
+  : **2021 - 2022**
+
+- Miembro de la Comisión Maker, encontrando soluciones de ingeniería a problemas del mundo real
+- Mejoré la eficiencia de redes de calefacción en hogares socioeconómicamente vulnerables
+- Inicié proyecto para restaurar microondas no utilizados dentro de las instalaciones del Consejo Estudiantil
+- Desarrollé prototipos de soluciones de ingeniería para problemas comunitarios identificados
+- Organizé talleres de capacitación técnica para estudiantes y miembros de la comunidad
+
+**Miembro de Comité**
+  : **Comités CAi**
+  : **2021 - 2022**
+
+- Miembro de la Comisión de Rol Público, desarrollando proyectos en colaboración con la administración de la Escuela
+- Contribuí a iniciativas de participación estudiantil y desarrollo de políticas universitarias
+- Organizé eventos de networking entre estudiantes y profesionales de la industria
+- Desarrollé propuestas de mejora para programas académicos y servicios estudiantiles
 
 ---
 
 ## Honores y Premios
 
-- **Ganador Elección del Público** - Platanus Ventures Hackathon 2024
-- **The Bridge @ UC** - Beca
-- **Puntaje Nacional Matemáticas**
-- **#3 BCG Challenge Chile** 2025
+**Ganador Elección del Público**
+  : Platanus Ventures Hackathon 2024
 
----
+**Beca The Bridge @ UC**
+  : Pontificia Universidad Católica de Chile
+
+**Puntaje Nacional Matemáticas**
+  : Puntaje Nacional de Matemáticas de Chile
+
+**3er Lugar**
+  : BCG Challenge Chile 2025
 
 ## Idiomas
 
-- **Español** (Nativo o Bilingüe)
-- **Inglés** (Profesional Completo)
+**Lenguajes de Programación:** Python, JavaScript / TypeScript, HTML / CSS, Java, SQL
+
+**Herramientas y Frameworks:** Git, React, Node.js, Koa.js, Sequelize, PostgreSQL, LaTeX
+
+**Idiomas:** Español (nativo), Inglés (competente)

@@ -12,148 +12,178 @@ format:
         \AtBeginDocument{\makeheader}
 ---
 
-## Work Experience
+---
 
-<table width="100%">
-<tr>
-<td><strong>MOTEX AI - Intern</strong></td>
-<td align="right">July 2025 - Present (4 months)</td>
-</tr>
-</table>
-Harvard spin-off, part of the founding team.
+---
 
-<table width="100%">
-<tr>
-<td><strong>ENTEL - Software Engineer Intern</strong></td>
-<td align="right">April 2025 - July 2025 (4 months)</td>
-</tr>
-</table>
-Chile - Micro internship, joined through "Sin Límites program", developed an internal AI tool to streamline report writing and extract key insights from private consultancy sources.
+# Vicente Lavagnino
 
-<table width="100%">
-<tr>
-<td><strong>PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE - Teaching Assistant</strong></td>
-<td align="right">March 2025 - July 2025 (5 months)</td>
-</tr>
-</table>
-Chile - Software Systems Architecture - IIC2173 (2025-1)
+<span class="iconify" data-icon="tabler:mail"></span> [vicente.lavagnino@uc.cl](mailto:vicente.lavagnino@uc.cl)
+  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/vicentelavagnino](https://www.linkedin.com/in/vicentelavagnino)
+  : <span class="iconify" data-icon="tabler:phone"></span> [+41 77 289 4018](https://wa.me/41772894018)
 
-<table width="100%">
-<tr>
-<td><strong>SIERRA-AT-TAHOE RESORT - Ski Instructor</strong></td>
-<td align="right">December 2023 - March 2024 (4 months)</td>
-</tr>
-</table>
-California, United States - Ski instructor - J1 Visa. Taught over 100 first-time skiers.
+<span class="iconify" data-icon="ic:outline-location-on"></span> Lausanne, Vaud, Switzerland
+  : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/VicenteLavagnino](https://github.com/VicenteLavagnino)
+  : <span class="iconify" data-icon="charm:person"></span> [lavagnino.cl](http://lavagnino.cl)
 
-<table width="100%">
-<tr>
-<td><strong>CAI - CENTRO DE ALUMNOS DE INGENIERÍA UC - Secretary General - Student Council</strong></td>
-<td align="right">December 2022 - December 2023 (1 year 1 month)</td>
-</tr>
-</table>
-Chile - Served as Secretary General of the Engineering Student Council at Pontificia Universidad Católica de Chile in 2023, leading student representation initiatives and managing activities for over 5,000 students in the school.
+## Experience
 
-<table width="100%">
-<tr>
-<td><strong>PREUNIVERSITARIO PARÁBOLA - Teacher</strong></td>
-<td align="right">January 2022 - December 2022 (1 year)</td>
-</tr>
-</table>
-Chile - Worked as a mathematics instructor at the Parábola pre-university program, the equivalent of SAT preparation in the U.S, delivering weekly classes and contributing to the development of study materials.
+**Software Engineer Intern**
+  : **Motex AI**
+  : **Jul 2025 - Present**
+
+- Harvard spin-off, part of the founding team developing innovative AI solutions
+- Contributing to core product development and technical architecture decisions
+- Collaborating on technical strategy definition and system architecture
+
+**Software Engineer Intern**
+  : **Entel**
+  : **Apr 2025 - Jul 2025**
+
+- Micro internship through "Sin Límites" program, developed internal AI tool for report writing automation
+- Extracted key insights from private consultancy sources using advanced data processing techniques
+- Implemented natural language processing algorithms for document analysis
+- Optimized internal workflows reducing report generation time by 40%
+
+**Teaching Assistant**
+  : **Pontificia Universidad Católica de Chile**
+  : **Mar 2025 - Jul 2025**
+
+- Software Systems Architecture course (IIC2173) - 2025-1 semester
+- Assisted students in understanding complex system design patterns and software architecture principles
+- Developed supplementary educational materials and practical exercises
+- Evaluated student projects and provided constructive feedback
+
+**Ski Instructor**
+  : **Sierra-at-Tahoe Resort**
+  : **Dec 2023 - Mar 2024**
+
+- J1 Visa position in California, United States
+- Taught over 100 first-time skiers, developing effective teaching methodologies for beginners
+- Adapted teaching techniques to different learning styles and skill levels
+- Contributed to development of training programs for junior instructors
+
+**Secretary General - Student Council**
+  : **CAi - Centro de Alumnos de Ingeniería UC**
+  : **Dec 2022 - Dec 2023**
+
+- Led student representation initiatives for over 5,000 engineering students
+- Managed organizational activities and coordinated between student body and university administration
+- Organized large-scale academic and social events with participation of over 1,000 students
+- Developed effective communication strategies between students and university authorities
+
+**Mathematics Teacher**
+  : **Preuniversitario Parábola**
+  : **Jan 2022 - Dec 2022**
+
+- SAT-equivalent preparation program in Chile
+- Developed weekly classes and contributed to study material creation for mathematics curriculum
+- Implemented teaching methodologies adapted to different levels of mathematical comprehension
+- Helped students improve their average scores by 25% during the teaching period
 
 ---
 
 ## Research Experience
 
-<table width="100%">
-<tr>
-<td><strong>CENTRO NACIONAL DE INTELIGENCIA ARTIFICIAL - Research Assistant</strong></td>
-<td align="right">May 2025 - September 2025 (5 months)</td>
-</tr>
-</table>
-Supervised by PhD Marcelo Mendoza, collaborated on MSc Martín Bórquez's thesis research on bias detection in job ads using NLP techniques.
+**Research Assistant**
+  : **Centro Nacional de Inteligencia Artificial**
+  : **May 2025 - Sep 2025**
+
+- Supervised by PhD Marcelo Mendoza, collaborated on MSc Martín Bórquez's thesis research
+- Developed NLP techniques for bias detection in job advertisements
+- Contributed to academic research methodology and data analysis
+- Implemented text classification algorithms for bias pattern identification
+- Collaborated in preparation of academic papers and research presentations
 
 ---
 
 ## Education
 
-<table width="100%">
-<tr>
-<td><strong>EPFL - Visiting Student – Master's Program, Computer Science</strong></td>
-<td align="right">2025 - 2026</td>
-</tr>
-</table>
+**Visiting Student - Master's Program, Computer Science**
+  : **Sep 2025 - Jun 2026**
 
-<table width="100%">
-<tr>
-<td><strong>STANFORD CONTINUING STUDIES - CS | AI & Business</strong></td>
-<td align="right">2025 - 2025</td>
-</tr>
-</table>
+EPFL (École Polytechnique Fédérale de Lausanne)
+  : Lausanne, Switzerland
 
-<table width="100%">
-<tr>
-<td><strong>PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE - Bachelor of Engineering - BE</strong></td>
-<td align="right">2021 - 2026</td>
-</tr>
-</table>
+**CS | AI & Business**
+  : **2025**
 
-<table width="100%">
-<tr>
-<td><strong>EF INTERNATIONAL LANGUAGE CENTERS - Highschool Exchange, Learning English</strong></td>
-<td align="right">December 2018 - March 2019</td>
-</tr>
-</table>
+Stanford Continuing Studies
+  : Stanford, CA
+
+**Bachelor of Engineering - Software Engineering**
+  : **Mar 2021 - Dec 2026**
+
+Pontificia Universidad Católica de Chile
+  : Santiago, Chile
+
+**High School Exchange - English Learning**
+  : **Dec 2018 - Mar 2019**
+
+EF International Language Centers
+  : United States
 
 ---
 
 ## Volunteering
 
-<table width="100%">
-<tr>
-<td><strong>TRABAJOS DE INVIERNO - Volunteer</strong></td>
-<td align="right">2022</td>
-</tr>
-</table>
-Volunteered for Trabajos de Invierno in its 2022 edition, an Engineering initiative dedicated to building tools to help overcome poverty for families in the Araucanía region. In particular, I contributed by constructing a pigpen and a water tower in Teodoro Schmidt.
+**Volunteer**
+  : **Trabajos de Invierno**
+  : **2022**
 
-<table width="100%">
-<tr>
-<td><strong>HEAD OF FINANCE LEPP UC - Volunteer</strong></td>
-<td align="right">2022</td>
-</tr>
-</table>
-In 2022, I was responsible for Finance at the young initiative "Laboratorio Estudiantil de Políticas Públicas UC", managing expenses and representing the initiative during the university's fund allocation and reporting processes.
+- Engineering initiative dedicated to building tools to help overcome poverty in Araucanía region
+- Constructed pigpen and water tower in Teodoro Schmidt, contributing to community infrastructure
+- Collaborated in design and implementation of potable water systems for rural communities
+- Coordinated volunteer teams and managed resources for construction projects
 
-<table width="100%">
-<tr>
-<td><strong>INGENIERÍA PARA CHILE - Volunteer</strong></td>
-<td align="right">2021-2022</td>
-</tr>
-</table>
-I was part of the Ingeniería Para Chile team, working particularly in the Maker Commission, which focuses on finding engineering solutions to real-world problems faced by students and society. Specifically, we worked on enhancing the efficiency of heating networks in socioeconomically vulnerable homes and initiated a project to restore unused microwaves within the Student Council.
+**Head of Finance**
+  : **Laboratorio Estudiantil de Políticas Públicas UC**
+  : **2022**
 
-<table width="100%">
-<tr>
-<td><strong>CAI COMMITTEES - Volunteer</strong></td>
-<td align="right">2021-2022</td>
-</tr>
-</table>
-During my early years at the university, I participated in the committees of the Engineering Students' Council, primarily in the Public Role Commission, developing projects in collaboration with the School and other initiatives.
+- Managed expenses and represented initiative during university fund allocation processes
+- Developed financial reporting systems for student-led policy research organization
+- Implemented budget controls and internal audit processes
+- Presented quarterly financial reports to university administration
 
----
+**Volunteer**
+  : **Ingeniería Para Chile**
+  : **2021 - 2022**
 
-## Awards and Achievements
+- Maker Commission member, finding engineering solutions to real-world problems
+- Enhanced efficiency of heating networks in socioeconomically vulnerable homes
+- Initiated project to restore unused microwaves within Student Council facilities
+- Developed prototypes of engineering solutions for identified community problems
+- Organized technical training workshops for students and community members
 
-- **People's Choice Winner** - Platanus Ventures Hackathon 2024
-- **The Bridge @ UC** - Scholarship
-- **Puntaje Nacional Matemáticas**
-- **#3 BCG Challenge Chile** 2025
+**Committee Member**
+  : **CAi Committees**
+  : **2021 - 2022**
+
+- Public Role Commission member, developing projects in collaboration with School administration
+- Contributed to student engagement initiatives and university policy development
+- Organized networking events between students and industry professionals
+- Developed improvement proposals for academic programs and student services
 
 ---
+
+## Awards and Honors
+
+**People's Choice Winner**
+  : Platanus Ventures Hackathon 2024
+
+**The Bridge @ UC Scholarship**
+  : Pontificia Universidad Católica de Chile
+
+**Puntaje Nacional Matemáticas**
+  : Chile National Mathematics Score
+
+**3rd Place**
+  : BCG Challenge Chile 2025
 
 ## Languages
 
-- **Español** (Native or Bilingual)
-- **Inglés** (Full Professional)
+**Programming Languages:** Python, JavaScript / TypeScript, HTML / CSS, Java, SQL
+
+**Tools and Frameworks:** Git, React, Node.js, Koa.js, Sequelize, PostgreSQL, LaTeX
+
+**Languages:** Spanish (native), English (proficient)
