@@ -1,7 +1,4 @@
 ---
-title: "CV de Una Página"
-subtitle: "Vicente Lavagnino"
-date-modified: "2024-06-06"
 format:
   html: default
   pdf: 
@@ -9,38 +6,10 @@ format:
     geometry: margin=1in
 ---
 
-# Vicente Lavagnino
-**Visitante @ EPFL | MPI-SP**  
-Lausanne, Vaud, Suiza
-
----
-
 ## Contacto
 
 - **Email:** [vicente.lavagnino@uc.cl](mailto:vicente.lavagnino@uc.cl)
 - **LinkedIn:** [www.linkedin.com/in/vicentelavagnino](https://www.linkedin.com/in/vicentelavagnino)
-
----
-
-## Idiomas
-
-- **Español** (Nativo o Bilingüe)
-- **Inglés** (Profesional Completo)
-
----
-
-## Certificaciones
-
-- **Técnico en Esquí**
-
----
-
-## Honores y Premios
-
-- **Ganador Elección del Público** - Platanus Ventures Hackathon 2024
-- **The Bridge @ UC** - Beca
-- **Puntaje Nacional Matemáticas**
-- **#3 BCG Challenge Chile** 2025
 
 ---
 
@@ -66,7 +35,7 @@ Chile - Trabajé como instructor de matemáticas en el programa preuniversitario
 
 ---
 
-## Investigación
+## Experiencia de Investigación
 
 **Mayo 2025 - Septiembre 2025 (5 meses)** | **Centro Nacional de Inteligencia Artificial** | *Asistente de Investigación*  
 Supervisado por PhD Marcelo Mendoza, colaboré en la investigación de tesis de MSc Martín Bórquez sobre detección de sesgos en anuncios de trabajo usando técnicas de PLN.
@@ -82,3 +51,35 @@ Supervisado por PhD Marcelo Mendoza, colaboré en la investigación de tesis de 
 **2021 - 2026** | **Pontificia Universidad Católica de Chile** | *Licenciatura en Ingeniería - BE*
 
 **Diciembre 2018 - Marzo 2019** | **EF International Language Centers** | *Intercambio de Secundaria, Aprendiendo Inglés*
+
+---
+
+## Voluntariado
+
+**2022** | **Trabajos de Invierno** | *Voluntario*  
+Voluntariado en Trabajos de Invierno en su edición 2022, una iniciativa de Ingeniería dedicada a construir herramientas para ayudar a superar la pobreza de familias en la región de la Araucanía. En particular, contribuí construyendo un corral de cerdos y una torre de agua en Teodoro Schmidt.
+
+**2022** | **Jefe de Finanzas Lepp UC** | *Voluntario*  
+En 2022, fui responsable de Finanzas en la joven iniciativa "Laboratorio Estudiantil de Políticas Públicas UC", gestionando gastos y representando la iniciativa durante los procesos de asignación de fondos y reportes de la universidad.
+
+**2021-2022** | **Ingeniería Para Chile** | *Voluntario*  
+Fui parte del equipo de Ingeniería Para Chile, trabajando particularmente en la Comisión Maker, que se enfoca en encontrar soluciones de ingeniería a problemas del mundo real enfrentados por estudiantes y la sociedad. Específicamente, trabajamos en mejorar la eficiencia de redes de calefacción en hogares socioeconómicamente vulnerables e iniciamos un proyecto para restaurar microondas no utilizados dentro del Consejo Estudiantil.
+
+**2021-2022** | **Comités CAi** | *Voluntario*  
+Durante mis primeros años en la universidad, participé en los comités del Consejo Estudiantil de Ingeniería, principalmente en la Comisión de Rol Público, desarrollando proyectos en colaboración con la Escuela y otras iniciativas.
+
+---
+
+## Honores y Premios
+
+- **Ganador Elección del Público** - Platanus Ventures Hackathon 2024
+- **The Bridge @ UC** - Beca
+- **Puntaje Nacional Matemáticas**
+- **#3 BCG Challenge Chile** 2025
+
+---
+
+## Idiomas
+
+- **Español** (Nativo o Bilingüe)
+- **Inglés** (Profesional Completo)

@@ -1,7 +1,4 @@
 ---
-title: "CV Detallado"
-subtitle: "Vicente Lavagnino"
-date-modified: "2024-06-06"
 format:
   html: default
   pdf: 
@@ -9,38 +6,10 @@ format:
     geometry: margin=1in
 ---
 
-# Vicente Lavagnino
-**Visitante @ EPFL | MPI-SP**  
-Lausanne, Vaud, Suiza
-
----
-
 ## Contacto
 
 - **Email:** [vicente.lavagnino@uc.cl](mailto:vicente.lavagnino@uc.cl)
 - **LinkedIn:** [www.linkedin.com/in/vicentelavagnino](https://www.linkedin.com/in/vicentelavagnino)
-
----
-
-## Idiomas
-
-- **Español** (Nativo o Bilingüe)
-- **Inglés** (Profesional Completo)
-
----
-
-## Certificaciones
-
-- **Técnico en Esquí**
-
----
-
-## Honores y Premios
-
-- **Ganador Elección del Público** - Platanus Ventures Hackathon 2024
-- **The Bridge @ UC** - Beca
-- **Puntaje Nacional Matemáticas**
-- **#3 BCG Challenge Chile** 2025
 
 ---
 
@@ -66,10 +35,22 @@ Chile - Trabajé como instructor de matemáticas en el programa preuniversitario
 
 ---
 
-## Investigación
+## Experiencia de Investigación
 
 **Mayo 2025 - Septiembre 2025 (5 meses)** | **Centro Nacional de Inteligencia Artificial** | *Asistente de Investigación*  
 Supervisado por PhD Marcelo Mendoza, colaboré en la investigación de tesis de MSc Martín Bórquez sobre detección de sesgos en anuncios de trabajo usando técnicas de PLN.
+
+---
+
+## Educación
+
+**2025 - 2026** | **EPFL** | *Estudiante Visitante – Programa de Maestría, Ciencias de la Computación*
+
+**2025 - 2025** | **Stanford Continuing Studies** | *CS | IA y Negocios*
+
+**2021 - 2026** | **Pontificia Universidad Católica de Chile** | *Licenciatura en Ingeniería - BE*
+
+**Diciembre 2018 - Marzo 2019** | **EF International Language Centers** | *Intercambio de Secundaria, Aprendiendo Inglés*
 
 ---
 
@@ -89,12 +70,16 @@ Durante mis primeros años en la universidad, participé en los comités del Con
 
 ---
 
-## Educación
+## Honores y Premios
 
-**2025 - 2026** | **EPFL** | *Estudiante Visitante – Programa de Maestría, Ciencias de la Computación*
+- **Ganador Elección del Público** - Platanus Ventures Hackathon 2024
+- **The Bridge @ UC** - Beca
+- **Puntaje Nacional Matemáticas**
+- **#3 BCG Challenge Chile** 2025
 
-**2025 - 2025** | **Stanford Continuing Studies** | *CS | IA y Negocios*
+---
 
-**2021 - 2026** | **Pontificia Universidad Católica de Chile** | *Licenciatura en Ingeniería - BE*
+## Idiomas
 
-**Diciembre 2018 - Marzo 2019** | **EF International Language Centers** | *Intercambio de Secundaria, Aprendiendo Inglés*
+- **Español** (Nativo o Bilingüe)
+- **Inglés** (Profesional Completo)
