@@ -1,255 +1,222 @@
 [
   {
-    "objectID": "curriculum/main/main_en.html",
-    "href": "curriculum/main/main_en.html",
-    "title": "Main CV",
+    "objectID": "curriculum/one-page/one-page_es.html",
+    "href": "curriculum/one-page/one-page_es.html",
+    "title": "CV de Una Página",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "crumbs": [
-      "English 🇬🇧",
-      "Main CV"
+      "Español",
+      "CV de Una Página"
     ]
   },
   {
-    "objectID": "curriculum/main/main_en.html#company-a",
-    "href": "curriculum/main/main_en.html#company-a",
-    "title": "Main CV",
+    "objectID": "curriculum/one-page/one-page_es.html#company-a",
+    "href": "curriculum/one-page/one-page_es.html#company-a",
+    "title": "CV de Una Página",
     "section": "Company A",
     "text": "Company A\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
     "crumbs": [
-      "English 🇬🇧",
-      "Main CV"
+      "Español",
+      "CV de Una Página"
     ]
   },
   {
-    "objectID": "curriculum/main/main_en.html#company-b",
-    "href": "curriculum/main/main_en.html#company-b",
-    "title": "Main CV",
+    "objectID": "curriculum/one-page/one-page_es.html#company-b",
+    "href": "curriculum/one-page/one-page_es.html#company-b",
+    "title": "CV de Una Página",
     "section": "Company B",
     "text": "Company B\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
     "crumbs": [
-      "English 🇬🇧",
-      "Main CV"
+      "Español",
+      "CV de Una Página"
     ]
   },
   {
-    "objectID": "curriculum/main/main_en.html#project-x",
-    "href": "curriculum/main/main_en.html#project-x",
-    "title": "Main CV",
+    "objectID": "curriculum/one-page/one-page_es.html#project-x",
+    "href": "curriculum/one-page/one-page_es.html#project-x",
+    "title": "CV de Una Página",
     "section": "Project X",
     "text": "Project X\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
     "crumbs": [
-      "English 🇬🇧",
-      "Main CV"
+      "Español",
+      "CV de Una Página"
     ]
   },
   {
-    "objectID": "curriculum/main/main_en.html#project-y",
-    "href": "curriculum/main/main_en.html#project-y",
-    "title": "Main CV",
+    "objectID": "curriculum/one-page/one-page_es.html#project-y",
+    "href": "curriculum/one-page/one-page_es.html#project-y",
+    "title": "CV de Una Página",
     "section": "Project Y",
     "text": "Project Y\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
     "crumbs": [
-      "English 🇬🇧",
-      "Main CV"
+      "Español",
+      "CV de Una Página"
     ]
   },
   {
-    "objectID": "curriculum/software-engineering/software-engineering_es.html",
-    "href": "curriculum/software-engineering/software-engineering_es.html",
-    "title": "Ingeniero de Software",
+    "objectID": "curriculum/detailed/detailed_en.html",
+    "href": "curriculum/detailed/detailed_en.html",
+    "title": "Detailed CV",
     "section": "",
-    "text": "Especialista en Ingeniería de Software con experiencia en…",
+    "text": "Software Engineering specialist with experience in…",
     "crumbs": [
-      "Español 🇪🇸",
-      "Ingeniero de Software"
+      "English",
+      "Detailed CV"
     ]
   },
   {
-    "objectID": "curriculum/software-engineering/software-engineering_es.html#empresa-x",
-    "href": "curriculum/software-engineering/software-engineering_es.html#empresa-x",
-    "title": "Ingeniero de Software",
-    "section": "Empresa X",
-    "text": "Empresa X\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "objectID": "curriculum/detailed/detailed_en.html#company-x",
+    "href": "curriculum/detailed/detailed_en.html#company-x",
+    "title": "Detailed CV",
+    "section": "Company X",
+    "text": "Company X\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
     "crumbs": [
-      "Español 🇪🇸",
-      "Ingeniero de Software"
+      "English",
+      "Detailed CV"
     ]
   },
   {
-    "objectID": "curriculum/software-engineering/software-engineering_es.html#empresa-y",
-    "href": "curriculum/software-engineering/software-engineering_es.html#empresa-y",
-    "title": "Ingeniero de Software",
-    "section": "Empresa Y",
-    "text": "Empresa Y\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "objectID": "curriculum/detailed/detailed_en.html#company-y",
+    "href": "curriculum/detailed/detailed_en.html#company-y",
+    "title": "Detailed CV",
+    "section": "Company Y",
+    "text": "Company Y\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
     "crumbs": [
-      "Español 🇪🇸",
-      "Ingeniero de Software"
+      "English",
+      "Detailed CV"
     ]
   },
   {
-    "objectID": "curriculum/software-engineering/software-engineering_es.html#proyecto-a",
-    "href": "curriculum/software-engineering/software-engineering_es.html#proyecto-a",
-    "title": "Ingeniero de Software",
-    "section": "Proyecto A",
-    "text": "Proyecto A\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "objectID": "curriculum/detailed/detailed_en.html#project-a",
+    "href": "curriculum/detailed/detailed_en.html#project-a",
+    "title": "Detailed CV",
+    "section": "Project A",
+    "text": "Project A\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
     "crumbs": [
-      "Español 🇪🇸",
-      "Ingeniero de Software"
+      "English",
+      "Detailed CV"
     ]
   },
   {
-    "objectID": "curriculum/software-engineering/software-engineering_es.html#proyecto-b",
-    "href": "curriculum/software-engineering/software-engineering_es.html#proyecto-b",
-    "title": "Ingeniero de Software",
-    "section": "Proyecto B",
-    "text": "Proyecto B\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "objectID": "curriculum/detailed/detailed_en.html#project-b",
+    "href": "curriculum/detailed/detailed_en.html#project-b",
+    "title": "Detailed CV",
+    "section": "Project B",
+    "text": "Project B\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
     "crumbs": [
-      "Español 🇪🇸",
-      "Ingeniero de Software"
+      "English",
+      "Detailed CV"
     ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Curriculum",
+    "title": "One Page CV",
     "section": "",
-    "text": "Nombre: Vicente Lavagnino\nCorreo Electrónico: tu-email@example.com\nTeléfono: +56 9 1234 5678\nDirección: Santiago, Chile",
+    "text": "I am a fourth-year Software Engineering student at Pontificia Universidad Católica de Chile. I am passionate about creating authentic and real social networking environments, focusing on genuine interactions and combating the negative effects of social pressure and the quest for perfection in traditional social media.\n\n\n\n\n\n\nDegree: Software Engineering\nYear: Fourth Year\n\n\n\n\n\n\n\n\nRole: Lead Developer\nDescription: Developing a unique social network where users’ profiles are shaped by comments from their friends, fostering more authentic interactions.\nTechnologies Used: React, PostgreSQL, Node.js, Koa.js, Sequelize\n\n\n\n\n\nRole: Founder\nDescription: Home decor business focusing on creating cozy and welcoming spaces.\n\n\n\n\n\nRole: Founder\nDescription: Mindfulness and yoga workshops aimed at improving mental health and well-being.\n\n\n\n\n\n\nProgramming Languages: JavaScript, Python, SQL\nFrameworks and Libraries: React, Node.js, Koa.js, Sequelize\nTools: Git, GitHub",
     "crumbs": [
-      "Español 🇪🇸",
-      "Curriculum"
+      "English",
+      "One Page CV"
     ]
   },
   {
-    "objectID": "index.html#información-personal",
-    "href": "index.html#información-personal",
-    "title": "Curriculum",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "One Page CV",
     "section": "",
-    "text": "Nombre: Vicente Lavagnino\nCorreo Electrónico: tu-email@example.com\nTeléfono: +56 9 1234 5678\nDirección: Santiago, Chile",
+    "text": "I am a fourth-year Software Engineering student at Pontificia Universidad Católica de Chile. I am passionate about creating authentic and real social networking environments, focusing on genuine interactions and combating the negative effects of social pressure and the quest for perfection in traditional social media.",
     "crumbs": [
-      "Español 🇪🇸",
-      "Curriculum"
+      "English",
+      "One Page CV"
     ]
   },
   {
-    "objectID": "index.html#experiencia-profesional",
-    "href": "index.html#experiencia-profesional",
-    "title": "Curriculum",
-    "section": "Experiencia Profesional",
-    "text": "Experiencia Profesional\n\nEmpresa XYZ\nDesarrollador de Software\nEnero 2021 - Presente - Descripción de tus responsabilidades y logros en esta posición.\n\n\nEmpresa ABC\nInterno de Desarrollo\nJunio 2020 - Diciembre 2020 - Descripción de tus responsabilidades y logros en esta posición.",
-    "crumbs": [
-      "Español 🇪🇸",
-      "Curriculum"
-    ]
-  },
-  {
-    "objectID": "index.html#educación",
-    "href": "index.html#educación",
-    "title": "Curriculum",
-    "section": "Educación",
-    "text": "Educación\n\nPontificia Universidad Católica de Chile\nIngeniería de Software\nMarzo 2019 - Presente",
-    "crumbs": [
-      "Español 🇪🇸",
-      "Curriculum"
-    ]
-  },
-  {
-    "objectID": "index.html#habilidades",
-    "href": "index.html#habilidades",
-    "title": "Curriculum",
-    "section": "Habilidades",
-    "text": "Habilidades\n\nLenguajes de Programación: JavaScript, Python, C++\nFrameworks: React, Node.js, Django\nHerramientas: Git, Docker, Jenkins",
-    "crumbs": [
-      "Español 🇪🇸",
-      "Curriculum"
-    ]
-  },
-  {
-    "objectID": "index.html#proyectos",
-    "href": "index.html#proyectos",
-    "title": "Curriculum",
-    "section": "Proyectos",
-    "text": "Proyectos\n\nProyecto de Red Social\nDescripción breve del proyecto, tecnologías utilizadas y logros alcanzados.\n\n\nProyecto de Tratamiento de Aguas\nDescripción breve del proyecto, tecnologías utilizadas y logros alcanzados.",
-    "crumbs": [
-      "Español 🇪🇸",
-      "Curriculum"
-    ]
-  },
-  {
-    "objectID": "index.html#idiomas",
-    "href": "index.html#idiomas",
-    "title": "Curriculum",
-    "section": "Idiomas",
-    "text": "Idiomas\n\nEspañol: Nativo\nInglés: Avanzado",
-    "crumbs": [
-      "Español 🇪🇸",
-      "Curriculum"
-    ]
-  },
-  {
-    "objectID": "index.html#intereses",
-    "href": "index.html#intereses",
-    "title": "Curriculum",
-    "section": "Intereses",
-    "text": "Intereses\n\nDesarrollo de Software\nCiberseguridad\nYoga y Mindfulness",
-    "crumbs": [
-      "Español 🇪🇸",
-      "Curriculum"
-    ]
-  },
-  {
-    "objectID": "curriculum/software-engineering/software-engineering_en.html",
-    "href": "curriculum/software-engineering/software-engineering_en.html",
-    "title": "Software Engineering",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "One Page CV",
     "section": "",
-    "text": "Software Engineering specialist with experience in…",
+    "text": "Degree: Software Engineering\nYear: Fourth Year",
     "crumbs": [
-      "English 🇬🇧",
-      "Software Engineering"
+      "English",
+      "One Page CV"
     ]
   },
   {
-    "objectID": "curriculum/software-engineering/software-engineering_en.html#company-x",
-    "href": "curriculum/software-engineering/software-engineering_en.html#company-x",
-    "title": "Software Engineering",
-    "section": "Company X",
-    "text": "Company X\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "One Page CV",
+    "section": "",
+    "text": "Role: Lead Developer\nDescription: Developing a unique social network where users’ profiles are shaped by comments from their friends, fostering more authentic interactions.\nTechnologies Used: React, PostgreSQL, Node.js, Koa.js, Sequelize\n\n\n\n\n\nRole: Founder\nDescription: Home decor business focusing on creating cozy and welcoming spaces.\n\n\n\n\n\nRole: Founder\nDescription: Mindfulness and yoga workshops aimed at improving mental health and well-being.",
     "crumbs": [
-      "English 🇬🇧",
-      "Software Engineering"
+      "English",
+      "One Page CV"
     ]
   },
   {
-    "objectID": "curriculum/software-engineering/software-engineering_en.html#company-y",
-    "href": "curriculum/software-engineering/software-engineering_en.html#company-y",
-    "title": "Software Engineering",
-    "section": "Company Y",
-    "text": "Company Y\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "One Page CV",
+    "section": "",
+    "text": "Programming Languages: JavaScript, Python, SQL\nFrameworks and Libraries: React, Node.js, Koa.js, Sequelize\nTools: Git, GitHub",
     "crumbs": [
-      "English 🇬🇧",
-      "Software Engineering"
+      "English",
+      "One Page CV"
     ]
   },
   {
-    "objectID": "curriculum/software-engineering/software-engineering_en.html#project-a",
-    "href": "curriculum/software-engineering/software-engineering_en.html#project-a",
-    "title": "Software Engineering",
-    "section": "Project A",
-    "text": "Project A\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "objectID": "curriculum/detailed/detailed_es.html",
+    "href": "curriculum/detailed/detailed_es.html",
+    "title": "CV Detallado",
+    "section": "",
+    "text": "Especialista en Ingeniería de Software con experiencia en…",
     "crumbs": [
-      "English 🇬🇧",
-      "Software Engineering"
+      "Español",
+      "CV Detallado"
     ]
   },
   {
-    "objectID": "curriculum/software-engineering/software-engineering_en.html#project-b",
-    "href": "curriculum/software-engineering/software-engineering_en.html#project-b",
-    "title": "Software Engineering",
-    "section": "Project B",
-    "text": "Project B\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "objectID": "curriculum/detailed/detailed_es.html#empresa-x",
+    "href": "curriculum/detailed/detailed_es.html#empresa-x",
+    "title": "CV Detallado",
+    "section": "Empresa X",
+    "text": "Empresa X\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
     "crumbs": [
-      "English 🇬🇧",
-      "Software Engineering"
+      "Español",
+      "CV Detallado"
+    ]
+  },
+  {
+    "objectID": "curriculum/detailed/detailed_es.html#empresa-y",
+    "href": "curriculum/detailed/detailed_es.html#empresa-y",
+    "title": "CV Detallado",
+    "section": "Empresa Y",
+    "text": "Empresa Y\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "Español",
+      "CV Detallado"
+    ]
+  },
+  {
+    "objectID": "curriculum/detailed/detailed_es.html#proyecto-a",
+    "href": "curriculum/detailed/detailed_es.html#proyecto-a",
+    "title": "CV Detallado",
+    "section": "Proyecto A",
+    "text": "Proyecto A\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "Español",
+      "CV Detallado"
+    ]
+  },
+  {
+    "objectID": "curriculum/detailed/detailed_es.html#proyecto-b",
+    "href": "curriculum/detailed/detailed_es.html#proyecto-b",
+    "title": "CV Detallado",
+    "section": "Proyecto B",
+    "text": "Proyecto B\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula, justo at efficitur congue, tortor arcu vestibulum arcu, eu laoreet libero lectus id sapien.",
+    "crumbs": [
+      "Español",
+      "CV Detallado"
     ]
   }
 ]
