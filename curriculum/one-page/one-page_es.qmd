@@ -4,15 +4,12 @@ subtitle: "Vicente Lavagnino"
 format:
   html: default
   pdf: 
-    documentclass: article
-    geometry: margin=1in
----
-
-## Contacto
-
-- **Email:** [vicente.lavagnino@uc.cl](mailto:vicente.lavagnino@uc.cl)
-- **LinkedIn:** [www.linkedin.com/in/vicentelavagnino](https://www.linkedin.com/in/vicentelavagnino)
-
+    documentclass: developercv
+    geometry: margin=0.1cm
+    fontsize: 9pt
+    include-in-header:
+      text: |
+        \AtBeginDocument{\makeheader}
 ---
 
 ## Experiencia Laboral
