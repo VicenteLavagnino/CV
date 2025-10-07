@@ -1,4 +1,6 @@
 ---
+title: "CV Detallado"
+subtitle: "Vicente Lavagnino"
 format:
   html: default
   pdf: 
@@ -15,7 +17,7 @@ format:
 
 ## Experiencia Laboral
 
-**Julio 2025 - Presente (4 meses)** | **Startup Stealth** | *Interno*  
+**Julio 2025 - Presente (4 meses)** | **Motex AI** | *Interno*  
 Spin-off de Harvard, parte del equipo fundador.
 
 **Abril 2025 - Julio 2025 (4 meses)** | **Entel** | *Ingeniero de Software Interno*  
