@@ -14,57 +14,132 @@ format:
 
 ## Experiencia Laboral
 
-**Julio 2025 - Presente (4 meses)** | **Motex AI** | *Interno*  
+<table width="100%">
+<tr>
+<td><strong>MOTEX AI - Interno</strong></td>
+<td align="right">Julio 2025 - Presente (4 meses)</td>
+</tr>
+</table>
 Spin-off de Harvard, parte del equipo fundador.
 
-**Abril 2025 - Julio 2025 (4 meses)** | **Entel** | *Ingeniero de Software Interno*  
+<table width="100%">
+<tr>
+<td><strong>ENTEL - Ingeniero de Software Interno</strong></td>
+<td align="right">Abril 2025 - Julio 2025 (4 meses)</td>
+</tr>
+</table>
 Chile - Micro pasantía, ingresé a través del programa "Sin Límites", desarrollé una herramienta de IA interna para agilizar la escritura de informes y extraer insights clave de fuentes de consultoría privadas.
 
-**Marzo 2025 - Julio 2025 (5 meses)** | **Pontificia Universidad Católica de Chile** | *Ayudante de Cátedra*  
+<table width="100%">
+<tr>
+<td><strong>PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE - Ayudante de Cátedra</strong></td>
+<td align="right">Marzo 2025 - Julio 2025 (5 meses)</td>
+</tr>
+</table>
 Chile - Arquitectura de Sistemas de Software - IIC2173 (2025-1)
 
-**Diciembre 2023 - Marzo 2024 (4 meses)** | **Sierra-at-Tahoe Resort** | *Instructor de Esquí*  
+<table width="100%">
+<tr>
+<td><strong>SIERRA-AT-TAHOE RESORT - Instructor de Esquí</strong></td>
+<td align="right">Diciembre 2023 - Marzo 2024 (4 meses)</td>
+</tr>
+</table>
 California, Estados Unidos - Instructor de esquí - Visa J1. Enseñé a más de 100 esquiadores principiantes.
 
-**Diciembre 2022 - Diciembre 2023 (1 año 1 mes)** | **CAi - Centro de Alumnos de Ingeniería UC** | *Secretario General - Consejo Estudiantil*  
+<table width="100%">
+<tr>
+<td><strong>CAI - CENTRO DE ALUMNOS DE INGENIERÍA UC - Secretario General - Consejo Estudiantil</strong></td>
+<td align="right">Diciembre 2022 - Diciembre 2023 (1 año 1 mes)</td>
+</tr>
+</table>
 Chile - Serví como Secretario General del Consejo Estudiantil de Ingeniería en la Pontificia Universidad Católica de Chile en 2023, liderando iniciativas de representación estudiantil y gestionando actividades para más de 5,000 estudiantes de la escuela.
 
-**Enero 2022 - Diciembre 2022 (1 año)** | **Preuniversitario Parábola** | *Profesor*  
+<table width="100%">
+<tr>
+<td><strong>PREUNIVERSITARIO PARÁBOLA - Profesor</strong></td>
+<td align="right">Enero 2022 - Diciembre 2022 (1 año)</td>
+</tr>
+</table>
 Chile - Trabajé como instructor de matemáticas en el programa preuniversitario Parábola, equivalente a la preparación SAT en Estados Unidos, impartiendo clases semanales y contribuyendo al desarrollo de materiales de estudio.
 
 ---
 
 ## Experiencia de Investigación
 
-**Mayo 2025 - Septiembre 2025 (5 meses)** | **Centro Nacional de Inteligencia Artificial** | *Asistente de Investigación*  
+<table width="100%">
+<tr>
+<td><strong>CENTRO NACIONAL DE INTELIGENCIA ARTIFICIAL - Asistente de Investigación</strong></td>
+<td align="right">Mayo 2025 - Septiembre 2025 (5 meses)</td>
+</tr>
+</table>
 Supervisado por PhD Marcelo Mendoza, colaboré en la investigación de tesis de MSc Martín Bórquez sobre detección de sesgos en anuncios de trabajo usando técnicas de PLN.
 
 ---
 
 ## Educación
 
-**2025 - 2026** | **EPFL** | *Estudiante Visitante – Programa de Maestría, Ciencias de la Computación*
+<table width="100%">
+<tr>
+<td><strong>EPFL - Estudiante Visitante – Programa de Maestría, Ciencias de la Computación</strong></td>
+<td align="right">2025 - 2026</td>
+</tr>
+</table>
 
-**2025 - 2025** | **Stanford Continuing Studies** | *CS | IA y Negocios*
+<table width="100%">
+<tr>
+<td><strong>STANFORD CONTINUING STUDIES - CS | IA y Negocios</strong></td>
+<td align="right">2025 - 2025</td>
+</tr>
+</table>
 
-**2021 - 2026** | **Pontificia Universidad Católica de Chile** | *Licenciatura en Ingeniería - BE*
+<table width="100%">
+<tr>
+<td><strong>PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE - Licenciatura en Ingeniería - BE</strong></td>
+<td align="right">2021 - 2026</td>
+</tr>
+</table>
 
-**Diciembre 2018 - Marzo 2019** | **EF International Language Centers** | *Intercambio de Secundaria, Aprendiendo Inglés*
+<table width="100%">
+<tr>
+<td><strong>EF INTERNATIONAL LANGUAGE CENTERS - Intercambio de Secundaria, Aprendiendo Inglés</strong></td>
+<td align="right">Diciembre 2018 - Marzo 2019</td>
+</tr>
+</table>
 
 ---
 
 ## Voluntariado
 
-**2022** | **Trabajos de Invierno** | *Voluntario*  
+<table width="100%">
+<tr>
+<td><strong>TRABAJOS DE INVIERNO - Voluntario</strong></td>
+<td align="right">2022</td>
+</tr>
+</table>
 Voluntariado en Trabajos de Invierno en su edición 2022, una iniciativa de Ingeniería dedicada a construir herramientas para ayudar a superar la pobreza de familias en la región de la Araucanía. En particular, contribuí construyendo un corral de cerdos y una torre de agua en Teodoro Schmidt.
 
-**2022** | **Jefe de Finanzas Lepp UC** | *Voluntario*  
+<table width="100%">
+<tr>
+<td><strong>JEFE DE FINANZAS LEPP UC - Voluntario</strong></td>
+<td align="right">2022</td>
+</tr>
+</table>
 En 2022, fui responsable de Finanzas en la joven iniciativa "Laboratorio Estudiantil de Políticas Públicas UC", gestionando gastos y representando la iniciativa durante los procesos de asignación de fondos y reportes de la universidad.
 
-**2021-2022** | **Ingeniería Para Chile** | *Voluntario*  
+<table width="100%">
+<tr>
+<td><strong>INGENIERÍA PARA CHILE - Voluntario</strong></td>
+<td align="right">2021-2022</td>
+</tr>
+</table>
 Fui parte del equipo de Ingeniería Para Chile, trabajando particularmente en la Comisión Maker, que se enfoca en encontrar soluciones de ingeniería a problemas del mundo real enfrentados por estudiantes y la sociedad. Específicamente, trabajamos en mejorar la eficiencia de redes de calefacción en hogares socioeconómicamente vulnerables e iniciamos un proyecto para restaurar microondas no utilizados dentro del Consejo Estudiantil.
 
-**2021-2022** | **Comités CAi** | *Voluntario*  
+<table width="100%">
+<tr>
+<td><strong>COMITÉS CAI - Voluntario</strong></td>
+<td align="right">2021-2022</td>
+</tr>
+</table>
 Durante mis primeros años en la universidad, participé en los comités del Consejo Estudiantil de Ingeniería, principalmente en la Comisión de Rol Público, desarrollando proyectos en colaboración con la Escuela y otras iniciativas.
 
 ---

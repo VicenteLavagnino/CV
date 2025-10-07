@@ -18,57 +18,132 @@ format:
 
 ## Work Experience
 
-**July 2025 - Present (4 months)** | **Motex AI** | *Intern*  
+<table width="100%">
+<tr>
+<td><strong>MOTEX AI - Intern</strong></td>
+<td align="right">July 2025 - Present (4 months)</td>
+</tr>
+</table>
 Harvard spin-off, part of the founding team.
 
-**April 2025 - July 2025 (4 months)** | **Entel** | *Software Engineer Intern*  
+<table width="100%">
+<tr>
+<td><strong>ENTEL - Software Engineer Intern</strong></td>
+<td align="right">April 2025 - July 2025 (4 months)</td>
+</tr>
+</table>
 Chile - Micro internship, joined through "Sin Límites program", developed an internal AI tool to streamline report writing and extract key insights from private consultancy sources.
 
-**March 2025 - July 2025 (5 months)** | **Pontificia Universidad Católica de Chile** | *Teaching Assistant*  
+<table width="100%">
+<tr>
+<td><strong>PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE - Teaching Assistant</strong></td>
+<td align="right">March 2025 - July 2025 (5 months)</td>
+</tr>
+</table>
 Chile - Software Systems Architecture - IIC2173 (2025-1)
 
-**December 2023 - March 2024 (4 months)** | **Sierra-at-Tahoe Resort** | *Ski Instructor*  
+<table width="100%">
+<tr>
+<td><strong>SIERRA-AT-TAHOE RESORT - Ski Instructor</strong></td>
+<td align="right">December 2023 - March 2024 (4 months)</td>
+</tr>
+</table>
 California, United States - Ski instructor - J1 Visa. Taught over 100 first-time skiers.
 
-**December 2022 - December 2023 (1 year 1 month)** | **CAi - Centro de Alumnos de Ingeniería UC** | *Secretary General - Student Council*  
+<table width="100%">
+<tr>
+<td><strong>CAI - CENTRO DE ALUMNOS DE INGENIERÍA UC - Secretary General - Student Council</strong></td>
+<td align="right">December 2022 - December 2023 (1 year 1 month)</td>
+</tr>
+</table>
 Chile - Served as Secretary General of the Engineering Student Council at Pontificia Universidad Católica de Chile in 2023, leading student representation initiatives and managing activities for over 5,000 students in the school.
 
-**January 2022 - December 2022 (1 year)** | **Preuniversitario Parábola** | *Teacher*  
+<table width="100%">
+<tr>
+<td><strong>PREUNIVERSITARIO PARÁBOLA - Teacher</strong></td>
+<td align="right">January 2022 - December 2022 (1 year)</td>
+</tr>
+</table>
 Chile - Worked as a mathematics instructor at the Parábola pre-university program, the equivalent of SAT preparation in the U.S, delivering weekly classes and contributing to the development of study materials.
 
 ---
 
 ## Research Experience
 
-**May 2025 - September 2025 (5 months)** | **Centro Nacional de Inteligencia Artificial** | *Research Assistant*  
+<table width="100%">
+<tr>
+<td><strong>CENTRO NACIONAL DE INTELIGENCIA ARTIFICIAL - Research Assistant</strong></td>
+<td align="right">May 2025 - September 2025 (5 months)</td>
+</tr>
+</table>
 Supervised by PhD Marcelo Mendoza, collaborated on MSc Martín Bórquez's thesis research on bias detection in job ads using NLP techniques.
 
 ---
 
 ## Education
 
-**2025 - 2026** | **EPFL** | *Visiting Student – Master's Program, Computer Science*
+<table width="100%">
+<tr>
+<td><strong>EPFL - Visiting Student – Master's Program, Computer Science</strong></td>
+<td align="right">2025 - 2026</td>
+</tr>
+</table>
 
-**2025 - 2025** | **Stanford Continuing Studies** | *CS | AI & Business*
+<table width="100%">
+<tr>
+<td><strong>STANFORD CONTINUING STUDIES - CS | AI & Business</strong></td>
+<td align="right">2025 - 2025</td>
+</tr>
+</table>
 
-**2021 - 2026** | **Pontificia Universidad Católica de Chile** | *Bachelor of Engineering - BE*
+<table width="100%">
+<tr>
+<td><strong>PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE - Bachelor of Engineering - BE</strong></td>
+<td align="right">2021 - 2026</td>
+</tr>
+</table>
 
-**December 2018 - March 2019** | **EF International Language Centers** | *Highschool Exchange, Learning English*
+<table width="100%">
+<tr>
+<td><strong>EF INTERNATIONAL LANGUAGE CENTERS - Highschool Exchange, Learning English</strong></td>
+<td align="right">December 2018 - March 2019</td>
+</tr>
+</table>
 
 ---
 
 ## Volunteering
 
-**2022** | **Trabajos de Invierno** | *Volunteer*  
+<table width="100%">
+<tr>
+<td><strong>TRABAJOS DE INVIERNO - Volunteer</strong></td>
+<td align="right">2022</td>
+</tr>
+</table>
 Volunteered for Trabajos de Invierno in its 2022 edition, an Engineering initiative dedicated to building tools to help overcome poverty for families in the Araucanía region. In particular, I contributed by constructing a pigpen and a water tower in Teodoro Schmidt.
 
-**2022** | **Head of Finance Lepp UC** | *Volunteer*  
+<table width="100%">
+<tr>
+<td><strong>HEAD OF FINANCE LEPP UC - Volunteer</strong></td>
+<td align="right">2022</td>
+</tr>
+</table>
 In 2022, I was responsible for Finance at the young initiative "Laboratorio Estudiantil de Políticas Públicas UC", managing expenses and representing the initiative during the university's fund allocation and reporting processes.
 
-**2021-2022** | **Ingeniería Para Chile** | *Volunteer*  
+<table width="100%">
+<tr>
+<td><strong>INGENIERÍA PARA CHILE - Volunteer</strong></td>
+<td align="right">2021-2022</td>
+</tr>
+</table>
 I was part of the Ingeniería Para Chile team, working particularly in the Maker Commission, which focuses on finding engineering solutions to real-world problems faced by students and society. Specifically, we worked on enhancing the efficiency of heating networks in socioeconomically vulnerable homes and initiated a project to restore unused microwaves within the Student Council.
 
-**2021-2022** | **CAi Committees** | *Volunteer*  
+<table width="100%">
+<tr>
+<td><strong>CAI COMMITTEES - Volunteer</strong></td>
+<td align="right">2021-2022</td>
+</tr>
+</table>
 During my early years at the university, I participated in the committees of the Engineering Students' Council, primarily in the Public Role Commission, developing projects in collaboration with the School and other initiatives.
 
 ---
